@@ -2,8 +2,17 @@
 
 ### AWS Exercises
 
-Note: It's recommended you'll use IaC technologies to solve the exercises (e.g. Terraform).<br>
-Note 2: Some of the exercises cost money and can't be performed using the free tier/resources
+#### Objective
+We want you to demonstrate your skills working in the AWS environment.
+
+Note: You'll use IaC technologies to solve the exercises (e.g. Terraform).<br>
+Note 2: Some of the exercises may incur cost and can't be performed using the free tier/resources
+
+#### Outputs
+
+1. Working solutions for each of the nominated exercises
+2. Terraform IAC code for each solution
+3. Architectural diagrams for of the nominated exercises.   Example/Guidance here: https://aws.amazon.com/architecture/icons/
 
 #### AWS - IAM
 
