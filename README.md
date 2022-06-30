@@ -14,6 +14,8 @@ Note 2: Some of the exercises may incur cost and can't be performed using the fr
 2. Terraform IAC code for each solution
 3. Architectural diagrams for of the nominated exercises.   Example/Guidance here: https://aws.amazon.com/architecture/icons/
 
+## Exercises
+
 #### AWS - IAM
 
 |Name|Topic|Objective & Instructions|Comments|
